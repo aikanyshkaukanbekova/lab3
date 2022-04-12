@@ -1,0 +1,6 @@
+n = input("Write your name:\n")
+a = input("Write your age:\n")
+p = input("Write your place of birth:\n")
+print("\nThis is", n)
+print("It's ", a)
+print("(S)he live in ", p)
